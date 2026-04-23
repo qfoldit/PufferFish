@@ -2,7 +2,10 @@
 
 ![](https://qfoldit.github.io/img/1/logo/PupperFish_1.png)
 
-A JavaScript library that simulates the nest‑building behavior of the white‑spotted pufferfish (*Torquigener albomaculosus*). Based on the paper:
+A JavaScript library that simulates the nest‑building behavior of the white‑spotted pufferfish (*Torquigener albomaculosus*). <br>
+*PupperFish* is a small ES module library that turns a biological metaphor into a computational loop. <br>
+
+Based on the paper:
 
 > Mizuuchi R., Kawase H., Shin H., Iwai D., Kondo S.  
 > **Simple rules for construction of a geometric nest structure by pufferfish**  
@@ -17,8 +20,6 @@ npm install pupperfish
 ```
 
 ---
-
-*PupperFish* is a small ES module library that turns a biological metaphor into a computational loop.
 
 The metaphor is inspired by the white-spotted pufferfish, which builds radial sand structures to shape local flow. In this library, that behavior becomes a general strategy for moving matter and information toward lower-energy states:
 
