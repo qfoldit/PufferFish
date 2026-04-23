@@ -1,0 +1,29 @@
+{
+  "name": "pupperfish",
+  "version": "1.0.0",
+  "description": "PupperFish: ES6 library that maps pufferfish-inspired sand building to protein folding, docking, and optimization workflows.",
+  "type": "module",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "example:sand": "node examples/basic_sand.js",
+    "example:protein": "node examples/protein_folding.js",
+    "example:docking": "node examples/drug_docking.js"
+  },
+  "keywords": [
+    "protein-folding",
+    "docking",
+    "simulation",
+    "threejs",
+    "qiskit",
+    "metropolis",
+    "simulated-annealing",
+    "pufferfish"
+  ],
+  "author": "qFoldIT",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "three": "^0.170.0"
+  }
+}
