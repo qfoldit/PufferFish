@@ -17,7 +17,7 @@ Based on the papers:
 > Kawase H., Kitajima Y., Iwai D.  
 > **3D model of the geometric nest structure, the "mystery circle," constructed by pufferfish**  
 > *Scientific Data*, 9, Article number: 378 (2022).  
-> [DOI: 10.1038/s41597-022-01437-x](https://doi.org/10.1038/s41597-022-01437-x)
+> [DOI: 10.1038/s41597-022-01466-4](https://doi.org/10.1038/s41597-022-01466-4)
 
 The first paper revealed the simple local rules that produce the radial nest. The second work delivers the first quantified 3D models of the complete structure and shows that its valleys always channel water and fine-grained particles toward the centre – a biomimetic principle applicable to architecture and fluid engineering.
 
