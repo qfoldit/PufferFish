@@ -1,4 +1,4 @@
-# 🐡 PupperFish – Architect PufferFish Algorithm (Torquigener albomaculosus)
+## 🐡 PupperFish – Architect PufferFish Algorithm (Torquigener albomaculosus)
 
 ![](https://qfoldit.github.io/img/1/logo/PupperFish_1.png)
 
