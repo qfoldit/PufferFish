@@ -1,5 +1,7 @@
 # 🐡 PupperFish – Architect Pufferfish Algorithm
 
+![](https://qfoldit.github.io/img/1/logo/PupperFish_1.png)
+
 A JavaScript library that simulates the nest‑building behavior of the white‑spotted pufferfish (*Torquigener albomaculosus*). Based on the paper:
 
 > Mizuuchi R., Kawase H., Shin H., Iwai D., Kondo S.  
